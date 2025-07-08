@@ -10,8 +10,8 @@ Getting your TomTom device ready for the road has never been easier, thanks to *
 
 By the end of this guide, you'll understand:
 
-- How to set up your device using [tomtom.com/getstarted](https://www.tomtom.com/getstarted)
-- How to install and use [MyDrive Connect for TomTom](https://www.tomtom.com/getstarted)
+- How to set up your device using tomtom.com/getstarted
+- How to install and use MyDrive Connect for TomTom
 - How to update your maps and firmware with the latest software
 - Troubleshooting tips for common installation and update issues
 
