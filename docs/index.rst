@@ -2,6 +2,12 @@ MyDrive Connect for TomTom: The Ultimate Guide to Get Started and Update Your Sa
 ======================================================================================
 Getting your TomTom device ready for the road has never been easier, thanks to **MyDrive Connect for TomTom**. Whether you're a new user or returning to update your device, **tomtom.com/getstarted** is the official and most reliable place to begin. Many users find themselves unsure how to manage updates, firmware installations, or new maps, but with this detailed guide, you'll learn everything you need to know. This article explores how to use **tomtom.com/getstarted**, how to install **MyDrive Connect for TomTom**, and how to **tom tom update sat nav** with ease and confidence.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://desk-tomtom.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with TomTom</a>
+   </div>
+
 By the end of this guide, you'll understand:
 
 - How to set up your device using [tomtom.com/getstarted](https://www.tomtom.com/getstarted)
